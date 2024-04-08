@@ -1,0 +1,22 @@
+.bloco1
+{
+    margin: 100px auto;
+    max-width: 640px;
+    width: 100%;
+    align-items: center;
+}
+
+input
+{
+    width: 250px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+button
+{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+
